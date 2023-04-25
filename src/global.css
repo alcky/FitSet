@@ -1,0 +1,80 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400;1,600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=SF+Pro+Text:wght@600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Alegreya:ital,wght@1,400;1,700&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-roboto: Roboto;
+  --font-poppins: Poppins;
+  --font-open-sans: "Open Sans";
+  --font-sf-pro-text: "SF Pro Text";
+  --font-inter: Inter;
+  --font-alegreya: Alegreya;
+
+  /* font sizes */
+  --font-size-6xl: 25px;
+  --font-size-base-4: 16.4px;
+  --font-size-mini: 15px;
+  --font-size-7xl: 26px;
+  --font-size-sm-5: 13.5px;
+  --font-size-xs: 12px;
+  --font-size-5xl-1: 24.1px;
+  --font-size-3xs-6: 9.6px;
+  --font-size-19xl-5: 38.5px;
+  --font-size-13xl: 32px;
+  --font-size-base: 16px;
+  --font-size-5xl: 24px;
+  --font-size-mid: 17px;
+  --font-size-sm: 14px;
+  --font-size-5xs: 8px;
+  --font-size-2xs: 11px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-floralwhite: #fbf8ee;
+  --color-gray-100: #0b0616;
+  --color-gray-200: #0a0615;
+  --color-gray-300: rgba(0, 0, 0, 0.25);
+  --color-aliceblue-100: #e5e9ef;
+  --color-black: #000;
+  --color-darkslategray-100: #494949;
+  --color-darkslategray-200: #404b52;
+  --color-whitesmoke: #f1f4f8;
+  --color-mistyrose: #ffeaea;
+  --color-deepskyblue-100: #009bd6;
+  --color-dimgray-100: rgba(95, 89, 89, 0.54);
+  --color-gainsboro: #d9d9d9;
+  --color-silver: rgba(196, 196, 196, 0);
+  --color-darkgray-100: #b7b3b3;
+  --color-darkgray-200: #a9a9a9;
+  --color-darkgray-300: #9c9c9c;
+  --color-springgreen: #00d95f;
+  --color-orange: #ffaa00;
+  --color-crimson: #d72f2f;
+
+  /* border radiuses */
+  --br-8xs: 5px;
+  --br-5xs-7: 7.7px;
+  --br-9xs: 4px;
+  --br-xl: 20px;
+  --br-11xs-3: 1.3px;
+  --br-10xs-7: 2.7px;
+  --br-sm-5: 13.5px;
+  --br-lgi-3: 19.3px;
+  --br-8xs-8: 4.8px;
+  --br-81xl: 100px;
+  --br-77xl-2: 96.2px;
+  --br-4xl-1: 23.1px;
+  --br-3xs: 10px;
+  --br-mini: 15px;
+  --br-31xl: 50px;
+  --br-5xs: 8px;
+  --br-21xl: 40px;
+  --br-11xl: 30px;
+}
